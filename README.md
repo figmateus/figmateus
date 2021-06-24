@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-figueredo-8a5749185/)](https://www.linkedin.com/in/mateus-figueredo-8a5749185/)
+## Hello there 👋
+in the following Lines I going to introduce myself 
 
-<!--
-**figmateus/figmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
+My name is Mateus Figueredo. I was living in Vitoria Da Conquista but Unfortunately due to Covid i need to come back to my hometown Itapetinga-Bahia, Brazil currently I am studying Information systems at Faculdade de Tecnologia e Ciências and i will be a developer.
 
-Here are some ideas to get you started:
+On my free time, I Like to read books, play video games, workout,Martial arts and enjoy good time with some friends. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays, I decided to focus on study PHP, but i really like to study JavaScript too. i am always open to new tecnologies and learning more about programming.
+
+## Detailed information
+Name: Mateus Figueredo
+Age: 21
+Living in: Itapetinga-Bahia, Brazil
+Stack: PHP - JavaScript - HTML - CSS - SQL
+University: studying Information systems at Facultade de Tecnologia e Ciências
+## Curiosities about me
+Before i start studying Programming, I was working with Beekeeping with my uncles; 
+The reason that I choose programming it was beacuse when I was teenager I used to spend a lot of time on my computer,and I thought that would be good work with my computer so I start to search about it and I found that I could do that by Programming;
+
+
