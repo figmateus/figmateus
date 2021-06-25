@@ -10,11 +10,11 @@ On my free time, I Like to read books, play video games, workout,Martial arts an
 Nowadays, I decided to focus on study PHP, but i really like to study JavaScript too. i am always open to new tecnologies and learning more about programming.
 
 ## Detailed information
-Name: Mateus Figueredo
-Age: 21
-Living in: Itapetinga-Bahia, Brazil
-Stack: PHP - JavaScript - HTML - CSS - SQL
-University: studying Information systems at Facultade de Tecnologia e Ciências
+* Name: Mateus Figueredo
+* Age: 21
+* Living in: Itapetinga-Bahia, Brazil
+* Stack: PHP - JavaScript - HTML - CSS - SQL
+* University: studying Information systems at Facultade de Tecnologia e Ciências
 ## Curiosities about me
 Before i start studying Programming, I was working with Beekeeping with my uncles; 
 The reason that I choose programming it was beacuse when I was teenager I used to spend a lot of time on my computer,and I thought that would be good work with my computer so I start to search about it and I found that I could do that by Programming;
