@@ -3,17 +3,17 @@
 in the following Lines I going to introduce myself 
 
 ## Public information
-My name is Mateus Figueredo. I was living in Vitoria Da Conquista but Unfortunately due to Covid i need to come back to my hometown Itapetinga-Bahia, Brazil currently I'm studying Information systems at Faculdade de Tecnologia e Ciências.
+My name is Mateus Figueredo. I live in Vitoria Da Conquista, Brazil currently I'm studying Information systems at Faculdade de Tecnologia e Ciências.
 
 On my free time, I Like to read books, play video games, workout, Martial arts and enjoy good time with some friends. 
 
-Curently, i'm focus on study PHP, but i really like to study JavaScript too. i'm always open to new tecnologies and learning more about programming.
+Curently, i'm studying PHP, but i really like to study JavaScript too. i'm always open to new tecnologies and learning more about programming.
 
 ## Detailed information
 * Name: Mateus Figueredo
 * Age: 21
-* Living in: Itapetinga-Bahia, Brazil
-* Stack: PHP - JavaScript - HTML - CSS - SQL
+* Living in: Vitoria Da Conquista - Bahia, Brazil
+* Stack: Laravel - JavaScript - HTML - CSS - SQL
 * University: studying Information systems at Facultade de Tecnologia e Ciências
 ## Curiosities about me
 Before i start study Programming, I was working as Beekeepeer with my uncles; 
