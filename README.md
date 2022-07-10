@@ -13,7 +13,7 @@ Currently, i'm studying PHP, but i really like to study JavaScript too. i'm alwa
 * Name: Mateus Figueredo
 * Age: 22
 * Living in: Vitoria Da Conquista - Bahia, Brazil
-* Stack: Laravel - JavaScript - bootstrap - sql - docker
+* Stack: Laravel - JavaScript - bootstrap - tailwind - sql - docker
 * University: Information systems at Facultade de Tecnologia e Ciências
 ## Curiosities about me
 Before i start study Programming, I was working as Beekeepeer with my uncles; 
